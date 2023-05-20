@@ -1,2 +1,4 @@
 # bentojoao
- meu primeiro repositorio
+ -meu primeiro repositório
+
+ -criado para poder estudar
