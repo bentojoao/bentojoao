@@ -7,7 +7,7 @@
 
 ## o que eu faço ?
 * programo em **python**
-* sei __orirntação a objeto__
+* sei __orientação a objeto__
 * utilizo o BD **MySQL**
 * consigo versionar 
 
