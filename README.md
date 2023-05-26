@@ -6,9 +6,9 @@
 * adora aprender coisas novas
 
 ## o que eu faço ?
-* programo em python
-* sei orirntação a objeto
-* utilizo o BD MySQL
+* programo em **python**
+* sei __orirntação a objeto__
+* utilizo o BD **MySQL**
 * consigo versionar 
 
 ## qual aréa atuo ?
@@ -17,7 +17,7 @@
 
 ## objetivos 
 * ser um programador profissional
-* me tornar um full stack
+* me tornar um **full stack**
 
 ## obrigado por ler até aqui
-fique avontade para clonar, comentar e me dizer oq achou dos meus repositórios 
+fique avontade para clonar, comentar e me dizer oq achou dos meus repositórios
